@@ -1,0 +1,23 @@
+settings =
+{
+	orientation =
+	{
+		default = "landscape",
+		supported = { "landscape" }
+	},
+	iphone =
+	{
+		plist=
+		{
+			CFBundleIconFile = "Icon.png",
+			CFBundleIconFiles =
+			{
+				"Icon.png", 
+				"Icon@2x.png", 
+				"Icon-72.png", 
+				"Icon-72@2x.png", 
+			},
+			CFBundleIdentifier = "com.appledts.GKTapper",	-- Apple's GameCenter Example (GKTapper)
+		},
+	},
+}
