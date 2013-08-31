@@ -1,7 +1,8 @@
 RunSnailRun_Lua
 ===============
+this is a cocod2d sample with a tiled map for corona SDK
 
-the following tizen javascript sample is a ported to corona sdk with lime https://developer.tizen.org/ja/documentation/articles/cocos2d-html5-game-framework-tizen-applications-introduction
+the following tizen javascript sample is a ported to Lua of corona sdk with lime https://developer.tizen.org/ja/documentation/articles/cocos2d-html5-game-framework-tizen-applications-introduction
 
 you can get lime from https://github.com/OutlawGameTools/Lime2DTileEngine
 
